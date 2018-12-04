@@ -41,9 +41,9 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks:
-    category: ':name/'
+
     
 # Other
 markdown: kramdown
 highlighter: rouge
+permalink: "/:title"
