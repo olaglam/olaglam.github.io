@@ -39,8 +39,7 @@ plugins:
 # Archives
 jekyll-archives:
   enabled:
-    - categories
-  layout: archive
+
 
     
 # Other
