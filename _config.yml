@@ -34,11 +34,7 @@ authors:
 # Plugins
 plugins: 
   - jekyll-paginate
-  - jekyll-archives
     
-# Archives
-jekyll-archives:
-  enabled:
 
 
     
