@@ -1,7 +1,7 @@
 <!-- Html Elements for Search -->
 
 <div class="demo-container">
-<a class="btn" href="/instant-jekyll-search/">Back to article</a>
+<button onclick="goBack()"><a class="btn" href="/instant-jekyll-search/">Back to article</a></button>
 
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
@@ -18,6 +18,12 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/assets/js/search.json'
 })
+</script>
+  
+  <script>
+function goBack() {
+  window.history.back();
+}
 </script>
 
 <style>
