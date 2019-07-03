@@ -42,3 +42,7 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 permalink: "/:title"
+
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
