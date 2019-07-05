@@ -34,8 +34,7 @@ authors:
 # Plugins
 plugins: 
   - jekyll-paginate
-    
-
+  - jekyll-seo-tag
 
     
 # Other
