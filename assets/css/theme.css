@@ -7,6 +7,7 @@ License: Attribution-NonCommercial 4.0 International
 */
 body {
     font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+    overflow-x: hidden;
 }
 .mainheading {
 	padding: 0rem 0rem 1rem 0;
